@@ -1,0 +1,5 @@
+En aquesta pràctica, fem coses similars que en el seminari2 però directament desde
+un script. En aquest cas adjunto ja el main.py on estàn tots els exercicis junts amb la posibilitat que l'usuari executi el que vulgui. 
+
+L'unic a comentar es que en l'exercici de codecs jo he probat passar de mp4 a avi,mkv i funcionava. Imagino que passarà el mateix amb tots els codecs que té ffmpeg.
+
